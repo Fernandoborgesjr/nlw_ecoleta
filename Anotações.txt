@@ -1,0 +1,14 @@
+Atalhos e dicas
+
+No css
+#nome = busca a div
+#nome outro item (header, a, span) = busca o item dentro da div
+
+No html
+Dica: Carregar 1° o css principal, 2° a estilização da página e por último a de responsividade.
+
+! = cria uma página html
+.idDaDiv e pressionar enter = Gera uma div com a id setada no nome.
+
+input+label e pressionar enter = gera os dois campos.
+intput*2(ou o número de inputs/itens que deseja criar)
